@@ -1,5 +1,6 @@
 - Refactor: Removes locked field from AccessControlPermission entity [#qubIT-Omnis-6964]
 - Refactor: Adds system field to AccessControlProfile entity and marks the locked field's getters and setters as deprecated [#qubIT-Omnis-6980]
+- New feature: Adds description field to AccessControlPermission and AccessControlProfile entities [#qubIT-Omnis-6987]
 
 2.1.1 (02-09-2024)
 - Improvement: Upgrades parent [#qubIT-Omnis-6687]
